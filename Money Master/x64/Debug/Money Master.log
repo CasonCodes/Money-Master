@@ -1,9 +1,0 @@
-﻿  moneyMaster.cpp
-C:\Users\Cason\Documents\GitHub\Money-Master\Money Master\moneyMaster.cpp(114,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\Cason\Documents\GitHub\Money-Master\Money Master\moneyMaster.cpp(300,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Cason\Documents\GitHub\Money-Master\Money Master\moneyMaster.cpp(407,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Cason\Documents\GitHub\Money-Master\Money Master\moneyMaster.cpp(579,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\Cason\Documents\GitHub\Money-Master\Money Master\moneyMaster.cpp(631,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Cason\Documents\GitHub\Money-Master\Money Master\moneyMaster.cpp(103): warning C4715: 'BudgetBook::howManyDays': not all control paths return a value
-C:\Users\Cason\Documents\GitHub\Money-Master\Money Master\moneyMaster.cpp(87): warning C4715: 'BudgetBook::monthToString': not all control paths return a value
-  Money Master.vcxproj -> C:\Users\Cason\Documents\GitHub\Money-Master\Money Master\x64\Debug\Money Master.exe
